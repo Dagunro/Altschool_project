@@ -35,12 +35,9 @@ A simple and elegant personal portfolio website template built with HTML and CSS
 
 Voila...................... Find the below screenshot
 
-
-![Screenshot from 2025-06-15 22-49-23](https://github.com/user-attachments/assets/4ecd3855-1177-4dc9-b18b-767ae6feacf8)
-
-
-![Screenshot from 2025-06-15 22-51-12](https://github.com/user-attachments/assets/6fb5ea9b-5aec-4943-8462-b6e0ded26590)
+![Screenshot from 2025-06-15 22-49-23](https://github.com/user-attachments/assets/dc319399-a9ad-42bc-9310-a7677a100d99)
 
 
+![Screenshot from 2025-06-15 22-51-12](https://github.com/user-attachments/assets/ef23fb42-185f-432a-b567-96fcd4fb19b7)
 
 
