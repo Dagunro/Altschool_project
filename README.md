@@ -31,7 +31,7 @@ A simple and elegant personal portfolio website template built with HTML and CSS
 4. Connect using the Public DNS.
 
 ## PUBLIC DNS
-- [Link to the website](51.20.2.253)
+- [Link to the website](http://51.20.2.253)
 
 Voila...................... Find the below screenshot
 
